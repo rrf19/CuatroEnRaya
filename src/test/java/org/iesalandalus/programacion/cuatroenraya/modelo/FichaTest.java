@@ -1,5 +1,6 @@
 package org.iesalandalus.programacion.cuatroenraya.modelo;
 
+import org.iesalandalus.programacion.cuatroenraya.Ficha;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
